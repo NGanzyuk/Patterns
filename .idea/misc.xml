@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/Builders/Logger/pom.xml" />
         <option value="$PROJECT_DIR$/Structural_patterns/Calculator/pom.xml" />
         <option value="$PROJECT_DIR$/Structural_patterns/Facade/pom.xml" />
+        <option value="$PROJECT_DIR$/Behavioral_patterns/infinity_iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Solid/Shop/pom.xml" />
       </list>
     </option>
   </component>
